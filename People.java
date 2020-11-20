@@ -1,7 +1,7 @@
 package com.mindtree.fileStream.entity;
 
 import java.io.Serializable;
-
+//openes in 1st batch-1
 public class People implements Serializable {
 	private String name;
 	private int age;
